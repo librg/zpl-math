@@ -1,6 +1,6 @@
 {
   "name": "zpl_math.c",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Vector math library that is gamedev friendly.",
   "main": "include/zpl_math.h",
   "directories": {
